@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZYMediator_Example' do
+  pod 'ZYMediator', :path => '../'
+
+  target 'ZYMediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
