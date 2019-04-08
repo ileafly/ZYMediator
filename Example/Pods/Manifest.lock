@@ -1,0 +1,16 @@
+PODS:
+  - ZYMediator (0.1.0)
+
+DEPENDENCIES:
+  - ZYMediator (from `../`)
+
+EXTERNAL SOURCES:
+  ZYMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYMediator: 4dd1d4bfc0865694f7d25b54884a366eeccc07bd
+
+PODFILE CHECKSUM: 431c6be13059ffec57062cf8bdfc7c4cd2a74c66
+
+COCOAPODS: 1.5.3
