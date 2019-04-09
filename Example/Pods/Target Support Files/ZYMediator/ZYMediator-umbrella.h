@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZYMediator.h"
 
 FOUNDATION_EXPORT double ZYMediatorVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZYMediatorVersionString[];
